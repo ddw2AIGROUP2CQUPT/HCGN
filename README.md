@@ -1,6 +1,7 @@
 # [HCGN: Hierarchical Convolution and Graph Network for Predicting Knee Osteoarthritis](https://#)
 
 Official PyTorch implementation of **HCGN**, from the following paper:
+[HCGN: Hierarchical Convolution and Graph Network for Predicting Knee Osteoarthritis](https://#)
 
 ## Installation
 
